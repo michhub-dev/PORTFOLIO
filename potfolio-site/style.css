@@ -1,8 +1,6 @@
 body {
   font-family: sans-serif;
   background: #eeeeee;
-  width: 100px;
-  height: 700px;
 }
 html {
   padding: 0;
@@ -28,7 +26,6 @@ div.contact-container #name {
 
 main {
   margin-left: 3rem;
-  width: 600px;
 }
 
 div {
