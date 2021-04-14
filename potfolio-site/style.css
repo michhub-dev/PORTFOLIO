@@ -69,7 +69,6 @@ body {
   section.personal-info {
     display: flex;
     justify-content: space-evenly;
-      margin-left: -10px;
   }
 }
 @media screen and (min-width: 641px x 1025px) {
@@ -82,9 +81,7 @@ body {
   div.img-container h5 {
     font-size: 11.2px;
   }
-  div.contact-container {
-    margin: 3px;
-  }
+ 
   div.contact-container p {
     margin: 10px 5px;
     font-size: 15px;
