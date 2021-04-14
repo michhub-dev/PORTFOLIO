@@ -26,6 +26,8 @@ div.contact-container #name {
 
 main {
   margin-left: 3rem;
+  min-height: 700px;
+  width: 75vw;
 }
 
 div {
@@ -62,7 +64,6 @@ ul {
   section.personal-info {
     display: flex;
     justify-content: space-evenly;
-     margin-right: -10px;
   }
 }
 @media screen and (min-width: 641px x 1025px) {
