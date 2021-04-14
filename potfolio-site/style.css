@@ -26,8 +26,7 @@ div.contact-container #name {
 
 main {
   margin-left: 3rem;
-  width: 550px;
- margin: auto;
+ 
 }
 
 div {
@@ -63,6 +62,8 @@ ul {
 @media screen and (max-width: 640px) {
    body {
     min-width: 100vw;
+      width: 100px;
+     margin: auto;
   }
   section.personal-info {
     display: flex;
