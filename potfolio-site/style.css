@@ -60,7 +60,6 @@ ul {
 
 @media screen and (max-width: 640px) {
   section.personal-info {
-    width: 100px;
     display: flex;
     justify-content: space-evenly;
   }
