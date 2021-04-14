@@ -1,7 +1,8 @@
 body {
   font-family: sans-serif;
   background: #eeeeee;
-  width: 100%;
+  width: 100px;
+  height: 700px;
 }
 html {
   padding: 0;
