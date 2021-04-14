@@ -61,10 +61,10 @@ ul {
 
 @media screen and (max-width: 640px) {
 body {
-    width: 100vw;
+    width: 100%;
   }
   main {
-    width: 75vw;
+    width: 75%;
   }
   section.personal-info {
     display: flex;
