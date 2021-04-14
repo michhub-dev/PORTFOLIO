@@ -69,6 +69,7 @@ body {
   section.personal-info {
     display: flex;
     justify-content: space-evenly;
+      margin-left: -10px;
   }
 }
 @media screen and (min-width: 641px x 1025px) {
