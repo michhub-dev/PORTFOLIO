@@ -79,6 +79,9 @@ ul {
     margin: 10px 5px;
     font-size: 15px;
   }
+  div.contact-container p i {
+    margin-right: 5px;
+  }
 
   section.education-training div {
     width: 40%;
