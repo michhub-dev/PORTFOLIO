@@ -59,10 +59,6 @@ ul {
 }
 
 @media screen and (max-width: 640px) {
-   body {
-    min-width: 100vw;
-    overflow-x: hidden;
-  }
   section.personal-info {
     display: flex;
     justify-content: space-evenly;
@@ -70,7 +66,6 @@ ul {
 }
 @media screen and (min-width: 641px x 1025px) {
   section.personal-info {
-    width: 100px;
     display: flex;
     justify-content: space-between;
   }
@@ -80,11 +75,8 @@ ul {
   }
  
   div.contact-container p {
-    margin: 10px 5px;
+    margin: 5px 10px;
     font-size: 15px;
-  }
-  div.contact-container p i {
-    margin-right: 5px;
   }
 
   section.education-training div {
