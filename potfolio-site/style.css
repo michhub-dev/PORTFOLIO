@@ -59,12 +59,6 @@ ul {
 }
 
 @media screen and (max-width: 640px) {
-body {
-    width: 100%;
-  }
-  main {
-    width: 75%;
-  }
   section.personal-info {
     display: flex;
     justify-content: space-evenly;
@@ -74,7 +68,7 @@ body {
   section.personal-info {
     width: 100px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
   }
 
   div.img-container h5 {
