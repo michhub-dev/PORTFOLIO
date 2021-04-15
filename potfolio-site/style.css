@@ -74,7 +74,7 @@ body {
   section.personal-info {
     width: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
   div.img-container h5 {
